@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning applied computer sc
 - 💞️ I’m looking to collaborate on any project that may boost my portfo
 - 📫 How to reach me  email,kevinnjorogewanjiku@gmail.com
-- 😄 Pronouns: smiles create more smiles
+  Fun fact: smiles create more smiles
 
 <!---
 Njoroge254/Njoroge254 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
